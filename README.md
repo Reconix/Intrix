@@ -1,1 +1,3 @@
 # Intrix
+
+Simple theme
